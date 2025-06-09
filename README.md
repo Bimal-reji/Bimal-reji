@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="C:/Users/bimal/Downloads/sukuna-red-3840x2160-16933.png" alt="Banner" style="width: 100%;" />
+  <img src=""C:\Users\bimal\OneDrive\Pictures\Screenshots 1\Screenshot (3).png"" alt="Banner" style="width: 100%;" />
 </div>  
 
 <h3 align="center">I'm Bimal...</h3>  
