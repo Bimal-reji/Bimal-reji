@@ -1,51 +1,38 @@
-<div align="center">
-  <img src="https://i.imgur.com/xyz123.png" alt="Banner" style="width: 100%;" />
-</div>  
+# 👋 Hi, I'm Bimal – Aspiring Data Scientist & ML Engineer
 
+🎓 Currently learning: Python | Data Science | Machine Learning  
+🔍 Interests: NLP, Deep Learning, AI Ethics, Data Visualization  
+💡 Tools: Python, Scikit-learn, TensorFlow, Pandas, SQL, Power BI  
+📫 Let's connect: [LinkedIn]("https://www.linkedin.com/in/bimal-reji-abraham-5885a8330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app")
+## 🧠 Portfolio Highlights
 
-<h3 align="center">Hi, I'm Bimal 👋</h3>  
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🛒 **Market Sales EDA** | Exploratory analysis on market sales data | `pandas`, `matplotlib` |
+| ❤️ **Heart Disease ML** | Predicting heart disease with ML classifiers | `scikit-learn`, `xgboost` |
+| 💬 **NLP Sentiment Analysis** | Twitter sentiment classification | `NLTK`, `sklearn` |
+| 👁️ **Object Detection** | Real-time object detection with YOLOv5 | `PyTorch`, `OpenCV` |
+| 🚀 **Model Deployment** | Streamlit app for ML model | `Streamlit`, `Heroku` |
 
-<div align="center">
+## 🧰 Skills & Tools
 
-🎓 AI and Data Science Student  
-🐍 Currently learning Python and Data Science  
-🤖 Exploring Machine Learning & AI tools  
-
-</div>
-
----
-
-### 🛠️ Skills
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" alt="Python" />
-  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" alt="C" />
-  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" alt="C++" />
-  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" alt="Java" />
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" alt="HTML5" />
-  <img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" height="50" alt="After Effects" />
-  <img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" height="50" alt="Blender" />
- <img src="https://profilinator.rishav.dev/skills-assets/sql.png" height="50" alt="sql" />
-  
-</div>
+- **Languages**: Python, SQL, HTML/CSS
+- **ML/DL**: scikit-learn, TensorFlow, PyTorch
+- **Data**: pandas, NumPy, seaborn, matplotlib
+- **Deployment**: Streamlit, Flask, Heroku
+- **Version Control**: Git, GitHub
 
 ---
 
-### 🌐 Connect with Me
+## 📌 Goals for 2025
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bimal-reji-abraham-5885a8330" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/nippo.amv/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
+- ✅ Complete 5 end-to-end DS projects  
+- ✅ Publish a Streamlit app  
+- 🔲 Contribute to open source in ML  
+- 🔲 Learn advanced NLP (Transformers, LLMs)
 
 ---
 
-### 📊 Stats (Optional)
+## 🧠 Resume
 
-You can add these if you like profile stats:
-
-```markdown
-![Bimal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+📄 See: [`Resume/Bimal_Resume_DS.pdf`](Resume/Bimal_Resume_DS.pdf)
