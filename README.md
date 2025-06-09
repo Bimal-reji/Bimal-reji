@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bimal – Aspiring Data Scientist & ML Engineer
+# 👋 Hi, I'm Bimal Reji – Aspiring Data Scientist & ML Engineer
 
 🎓 Currently learning: Python | Data Science | Machine Learning  
 🔍 Interests: NLP, Deep Learning, AI Ethics, Data Visualization  
