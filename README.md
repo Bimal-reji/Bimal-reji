@@ -9,13 +9,9 @@
 - AI and DS Student  
   
 
-- I'm currently learning Python and JavaScript  
-  
-
-- Also interested in learning Unreal Engine 5   
-  
-
--   
+- I'm currently learning Python and Data Science 
+    
+- Learning Machine Learning
   
 
 
