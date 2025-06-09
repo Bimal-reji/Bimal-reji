@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-image.png" alt="Banner" style="width: 100%;" />
+  <img src="https://i.imgur.com/xyz123.png" alt="Banner" style="width: 100%;" />
 </div>  
+
 
 <h3 align="center">Hi, I'm Bimal 👋</h3>  
 
