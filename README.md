@@ -20,15 +20,11 @@
   <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" alt="C" />
   <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" alt="C++" />
   <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" alt="Java" />
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" alt="JavaScript" />
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" alt="HTML5" />
   <img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" height="50" alt="After Effects" />
   <img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" height="50" alt="Blender" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Scikit_learn_logo_small.svg/512px-Scikit_learn_logo_small.svg.png" height="40" alt="Scikit-learn" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png" height="40" alt="NumPy" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png" height="40" alt="Pandas" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/TensorFlowLogo.svg" height="40" alt="TensorFlow" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/PyTorch_logo_icon.svg" height="40" alt="PyTorch" />
+ <img src="https://profilinator.rishav.dev/skills-assets/sql.png" height="50" alt="sql" />
+  
 </div>
 
 ---
