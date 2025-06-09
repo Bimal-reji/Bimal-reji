@@ -41,7 +41,7 @@
 
 ## 📌 Goals for 2025
 
-- ✅ Complete 5 end-to-end DS projects  
+- ✅ Complete 5 end-to-end DS & ML projects  
 - ✅ Publish a Streamlit app  
 - 🔲 Contribute to open source in ML  
 - 🔲 Learn advanced NLP (Transformers, LLMs)
