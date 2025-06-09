@@ -3,7 +3,11 @@
 🎓 Currently learning: Python | Data Science | Machine Learning  
 🔍 Interests: NLP, Deep Learning, AI Ethics, Data Visualization  
 💡 Tools: Python, Scikit-learn, TensorFlow, Pandas, SQL, Power BI  
-📫 Let's connect: [LinkedIn]("https://www.linkedin.com/in/bimal-reji-abraham-5885a8330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app")
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/BimalRejiAbraham)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bimal_reji)
+
 ## 🧠 Portfolio Highlights
 
 | Project | Description | Tech |
